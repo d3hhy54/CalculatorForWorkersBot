@@ -1,0 +1,60 @@
+{
+    "workers": [],
+    "users": [],
+    "items": {
+        "Apple": {
+            "raz'em_zarjadki": {
+                "display": {
+                    "all": {
+                        "price_max": 2500,
+                        "price_min": 1000,
+                        "markup": 3000
+                    }
+                }
+            },
+            "AKB": {
+                "display": {
+                    "all": {
+                        "price_max": 1000,
+                        "price_min": 300,
+                        "markup": 5000
+                    }
+                },
+                "lid": {
+                    "all": {
+                        "price_max": 100000,
+                        "price_min": 100,
+                        "markup": 300
+                    }
+                }
+            }
+        },
+        "Android": {
+            "AKB": {
+                "display": {
+                    "all": {
+                        "price_min": 100,
+                        "price_max": 200,
+                        "markup": 5000
+                    }
+                },
+                "lid": {
+                    "all": {
+                        "price_min": 300,
+                        "price_max": 700,
+                        "markup": 1000
+                    }
+                }
+            },
+            "zamena_displeja": {
+                "display": {
+                    "Samsung": {
+                        "price_max": 4000,
+                        "price_min": 3000,
+                        "markup": 10000
+                    }
+                }
+            }
+        }
+    }
+}
